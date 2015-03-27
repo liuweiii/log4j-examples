@@ -1,0 +1,5 @@
+2015-03-18 10:18:25 [DEBUG] debugInfo
+2015-03-18 10:18:25 [INFO] info
+2015-03-18 10:18:25 [ERROR] errorInfo
+2015-03-18 10:18:25 [FATAL] fatalInfo
+2015-03-18 10:18:25 [WARN] warnInfo
